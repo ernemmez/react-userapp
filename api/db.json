@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "unique-1",
+      "name": "Resul Eren Emmez",
+      "salary": "6000",
+      "department": "Bilişim"
+    },
+    {
+      "name": "EdA Nur Özbüyükyörük",
+      "salary": "4000",
+      "department": "Pazarlama 2",
+      "id": "unique-2"
+    },
+    {
+      "name": "Malik Öztürk",
+      "department": "Bilişim",
+      "salary": "6000",
+      "id": "2W2dzjZ"
+    },
+    {
+      "name": "Zeynep Öz",
+      "salary": "5000",
+      "department": "İnsan Kaynakları",
+      "id": "0HojoiW"
+    },
+    {
+      "name": "Serdar Akyol",
+      "department": "Pazarlama",
+      "salary": "4000",
+      "id": "GaG_hdC"
+    },
+    {
+      "name": "Özay Çelik",
+      "salary": "6000",
+      "department": "Bilişim",
+      "id": "x89IYzM"
+    }
+  ]
+}
